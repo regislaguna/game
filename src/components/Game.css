@@ -1,0 +1,21 @@
+.box-game
+{ 
+    text-align: center;
+    background-color: navy;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 4px 7px 5px -3px;
+
+}
+
+input 
+{
+    margin: 10px;
+    background-color: #eeee;
+    color: #000;
+}
+
+button 
+{
+    margin: 10px;
+}
